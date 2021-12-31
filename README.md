@@ -2,6 +2,7 @@
 AIM - Predict health condition from reviews using Natural Language Processing
 
 
+
 Tokenise the sentences.
 • Clean reviews :
      Remove punctuation
@@ -13,3 +14,9 @@ Tokenise the sentences.
 • Create TFIDF model to vectorise
 • Apply ML algorithms Naive Bayes & Passive Aggressive Classifier
 • Compare different models
+
+
+
+
+The data set can be downloaded from the following URL:
+https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29#
