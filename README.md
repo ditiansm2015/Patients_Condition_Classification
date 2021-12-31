@@ -3,6 +3,8 @@ AIM - Predict health condition from reviews using Natural Language Processing
 
 
 
+
+Steps Followed :
 Tokenise the sentences.
 • Clean reviews :
      Remove punctuation
